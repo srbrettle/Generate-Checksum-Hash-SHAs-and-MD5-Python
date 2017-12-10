@@ -10,7 +10,7 @@ Example
 
 Usage
 -----
-1. Run "main.py"
+1. Run "main.py".
 2. Use [Browse...] to browse file system and select the relevant file.
 3. Click [Generate] to generate the hash.
 
