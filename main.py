@@ -1,7 +1,7 @@
 from tkinter import Tk, Label, Button, StringVar, W, E, filedialog
 import checksum
 
-class Sha256Gui:
+class ChecksumGui:
 
     def __init__(self, master):
         self.master = master
@@ -156,5 +156,5 @@ class Sha256Gui:
         self.md5hash_label_text.set(self.md5hash)
 
 root = Tk()
-my_gui = Sha256Gui(root)
+my_gui = ChecksumGui(root)
 root.mainloop()
