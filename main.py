@@ -1,4 +1,4 @@
-from tkinter import Tk, Label, Button, Entry, StringVar, END, W, E, filedialog
+from tkinter import Tk, Label, Button, StringVar, W, E, filedialog
 import checksum
 
 class Sha256Gui:
