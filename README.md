@@ -1,12 +1,12 @@
-# Generate-SHA-256-Hash-Python
+# Generate-Checksum-Hash-SHAs-and-MD5-Python
 
 Function
 --------
-The application will generate a SHA-256 hash for a given file.
+The application will generate SHA1, SHA-224, SHA-256, SHA-384, SHA-512, SHA-3-224, SHA-3-256, SHA-3-384, SHA-3-512 and MD5 checksums/hash values for a given file.
 
 Example
 -------
-![SHA-256 Example](/SHA256.png?raw=true "Example")
+![Checksum Example](/Checksum.png?raw=true "Example")
 
 Usage
 -----
