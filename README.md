@@ -1,4 +1,4 @@
-# Generate-Checksum-Hash-SHAs-and-MD5-Python
+# Generate-Checksum-Hash-SHAs-and-MD5-Python[![Build Status](https://travis-ci.org/srbrettle/Generate-Checksum-Hash-SHAs-and-MD5-Python.svg?branch=master)](https://travis-ci.org/srbrettle/Generate-Checksum-Hash-SHAs-and-MD5-Python)
 
 Function
 --------
