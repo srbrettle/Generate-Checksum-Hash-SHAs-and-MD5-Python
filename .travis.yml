@@ -12,4 +12,5 @@ before_install:
   - "sudo apt-get install python3-tk"  
 script:
   - python checksum.py
-  - python main.py
+  # Build stalls in main.py
+  # - python main.py
