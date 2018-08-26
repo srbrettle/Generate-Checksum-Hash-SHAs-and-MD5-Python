@@ -1,9 +1,12 @@
 language: python
 python:
-    - "2.7.9"
-    - "3.6"
+  - "2.7"
+  - "3.4"
+  - "3.5"
+  - "3.6"
 before_install:
-    - "sudo apt-get update -qq"
-    - "sudo apt-get install python-tk python3-tk"
+  - "export DISPLAY=:99.0"
+  - "sudo apt-get update -qq"
+  - "sudo apt-get install python-tk python3-tk"
 script:
-    - python main.py
+  - python main.py   
