@@ -10,6 +10,6 @@ python:
   - "3.6-dev"  # 3.6 development branch
   - "3.7-dev"  # 3.7 development branch
 before_install:    
-  - sudo apt-get install -y python-tk;
+  - sudo apt-get install python3-tk;
 script:
   - python main.py
